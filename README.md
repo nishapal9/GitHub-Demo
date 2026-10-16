@@ -1,2 +1,3 @@
 # GitHub-Demo
-This is my learning repository
+This is my learning repository.
+Author - Nisha Pal
